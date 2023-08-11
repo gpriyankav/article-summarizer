@@ -1,7 +1,15 @@
-# Final Project: Article Summarizer
+# Final Project:  Priyanka Gorentla Article Summarizer
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
+
+Project Description:The article "U.S. Farmers Struggle Through Drought to Bring Food to the Table, but Face More Challenges Ahead" discusses American farmers' drought-related issues and their future challenges. Drought impacts crops, animals, and agricultural operations, but farmers' perseverance and persistence help them flourish.</br>
+
+Sentiment analysis suggests the article is positive. Good that the story acknowledges the farmers' efforts and resilience while noting their challenges. The article has a 0.15 polarity score, which is moderately positive. To capture sentences with higher emotion ratings, a token-based summary was created. This synopsis covers the article's main points, including drought's effects, farmers' resiliency, and future agriculture business challenges.<br/>
+
+When comparing article and synopsis polarity scores, there is a slight tone difference. The summary's lower polarity score may have been due to omitting neutral sentences. The summarying process may favor sentences with stronger emotions, which may alter the polarity score.<br/>
+
+The article concludes by discussing drought and agriculture's complexity for U.S. farmers. The article's sentiment analysis and summary highlight American farmers' struggles and fortitude.<br/>
 
 ## Rubric
 
